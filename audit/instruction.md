@@ -20,19 +20,19 @@
 
 1. **`anger` (Гнев / Ярость):**
    Прямая агрессия, враждебность, оскорбления в адрес собеседника или третьего лица, угрозы, сильное возмущение.
-   * *Примеры из среза:* «You're the idiot», «I hate you.», «Oh go fuck yourself with your BS generalization.», «[NAME] Just Stop trying you idiot».
+   * *Примеры:* «Shut up, you have no idea what you are talking about», «I despise people who act like that».
 
 2. **`annoyance` (Раздражение / Досада):**
-   Бытовая фрустрация, ворчание, недовольство ситуацией или чужим поведением без прямой ярости и атаки на личность.
-   * *Примеры из среза:* «how it's annoying that the ocs doesnt do the bulk discounts», «We don’t like to talk about that», «Damn. [NAME]».
+   Бытовая фрустрация, ворчание, недовольство ситуацией, навязчивостью или чужим поведением без прямой ярости и атаки на личность.
+   * *Примеры:* «Great, the app crashed again right before saving», «Why do people keep posting this every single week?».
 
 3. **`disapproval` (Неодобрение / Осуждение):**
    Рациональное несогласие, отрицание, критика идеи, поступка, правила или чужой позиции.
-   * *Примеры из среза:* «This is wrong on so many levels.», «That is in no way sexual harrassment...», «I just don't like our options in the off season.», «Not even slightly.».
+   * *Примеры:* «That policy makes zero sense for small businesses», «I completely disagree with this decision».
 
 4. **`disgust` (Отвращение / Омерзение):**
    Сильное неприятие чего-то мерзкого, отталкивающего, аморального или вызывающего брезгливость.
-   * *Примеры из среза:* «This one is the worst, by far», «The 2 greens look awful», «I don't think eating 4chan pizza is a good idea. Unless you're into some weird shit.».
+   * *Примеры:* «That spoiled milk smells repulsive», «Watching him lie like that makes me sick».
 
 ---
 
@@ -43,10 +43,10 @@
 * **Рациональная критика vs раздражение (`disapproval` vs `annoyance`):**
   Если автор оценивает действие, факт или идею («неправильно», «не согласен», «плохо») — ставьте `disapproval`. Если акцент на личной фрустрации автора («достало», «бесит») — `annoyance`.
 * **Сарказм и ирония:**
-  Оценивайте по скрытому смыслу, а не буквальным словам (язвительное *«Classy.»* или *«Take your damn upvote you bastard.»* трактуются по реальному отношению автора — чаще `annoyance` или `disapproval`).
+  Оценивайте по скрытому смыслу, а не буквальным словам (язвительное *«Oh, brilliant idea, genius»* трактуется по реальному отношению автора — чаще `annoyance` или `disapproval`).
 * **Капслок и обсценная лексика:**
   Наличие мата или заглавных букв само по себе не делает реплику `anger`. Оценивайте по направленности: если матом критикуют плохой продукт, вкус или дизайн — это `disapproval` или `disgust`; если выражают общее удивление или досаду без агрессии — `annoyance`.
-* **Короткие реплики и дефицит контекста (например, *«Not even slightly.»*, *«Damn. [NAME]»*, *«This isn’t a “someone” this is a company.»*):**
+* **Короткие реплики и дефицит контекста (например, *«Not at all»*, *«Seriously?»*):**
   Если эмоция не выражена прямо из-за отсутствия родительского комментария, выбирайте по базовой речевой функции: прямое отрицание, поправка или оценка $\rightarrow$ `disapproval`; эмоциональное восклицание, недоумение или ворчание $\rightarrow$ `annoyance`.
 
 ---
